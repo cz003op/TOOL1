@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 400 420"
+     width="400" height="420">
+
+  <!-- Hourglass shape (refined to match the image) -->
+  <path 
+    d="M120 60 H280 
+       L225 180 
+       L280 330 
+       H120 
+       L175 180 
+       Z"
+    fill="#1a1a1a"/>
+
+  <!-- Lightning bolt (refined angles & proportions) -->
+  <path 
+    d="M210 70 
+       L175 200 
+       H198 
+       L172 325 
+       L230 190 
+       H205 
+       L235 70 
+       Z"
+    fill="#D4941A"/>
+
+  <!-- Text -->
+  <text 
+    x="200" y="375"
+    font-family="Arial Black, Arial, sans-serif"
+    font-weight="900"
+    font-size="60"
+    text-anchor="middle"
+    fill="#1a1a1a">
+    JCL R&amp;D
+  </text>
+
+  <!-- Red underline -->
+  <rect 
+    x="90" y="388"
+    width="220" height="5"
+    fill="#CC0000"
+    rx="2"/>
+</svg>
